@@ -1,4 +1,4 @@
-data = [10, 23.4, 'Hello']
+data = [10, 23.4,'Hello']
 data.insert(1, 'bonjour')
 print(data)
 type(data)
